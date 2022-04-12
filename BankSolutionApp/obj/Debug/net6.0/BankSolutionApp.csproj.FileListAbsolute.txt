@@ -1,0 +1,15 @@
+C:\Users\Bechara\source\repos\BankSolution\BankSolutionApp\bin\Debug\net6.0\BankSolutionApp.exe
+C:\Users\Bechara\source\repos\BankSolution\BankSolutionApp\bin\Debug\net6.0\BankSolutionApp.deps.json
+C:\Users\Bechara\source\repos\BankSolution\BankSolutionApp\bin\Debug\net6.0\BankSolutionApp.runtimeconfig.json
+C:\Users\Bechara\source\repos\BankSolution\BankSolutionApp\bin\Debug\net6.0\BankSolutionApp.dll
+C:\Users\Bechara\source\repos\BankSolution\BankSolutionApp\bin\Debug\net6.0\BankSolutionApp.pdb
+C:\Users\Bechara\source\repos\BankSolution\BankSolutionApp\obj\Debug\net6.0\BankSolutionApp.csproj.AssemblyReference.cache
+C:\Users\Bechara\source\repos\BankSolution\BankSolutionApp\obj\Debug\net6.0\BankSolutionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bechara\source\repos\BankSolution\BankSolutionApp\obj\Debug\net6.0\BankSolutionApp.AssemblyInfoInputs.cache
+C:\Users\Bechara\source\repos\BankSolution\BankSolutionApp\obj\Debug\net6.0\BankSolutionApp.AssemblyInfo.cs
+C:\Users\Bechara\source\repos\BankSolution\BankSolutionApp\obj\Debug\net6.0\BankSolutionApp.csproj.CoreCompileInputs.cache
+C:\Users\Bechara\source\repos\BankSolution\BankSolutionApp\obj\Debug\net6.0\BankSolutionApp.dll
+C:\Users\Bechara\source\repos\BankSolution\BankSolutionApp\obj\Debug\net6.0\refint\BankSolutionApp.dll
+C:\Users\Bechara\source\repos\BankSolution\BankSolutionApp\obj\Debug\net6.0\BankSolutionApp.pdb
+C:\Users\Bechara\source\repos\BankSolution\BankSolutionApp\obj\Debug\net6.0\BankSolutionApp.genruntimeconfig.cache
+C:\Users\Bechara\source\repos\BankSolution\BankSolutionApp\obj\Debug\net6.0\ref\BankSolutionApp.dll
